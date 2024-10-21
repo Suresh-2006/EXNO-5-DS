@@ -18,7 +18,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-DEVELOPED BY : STANLEY S(212223110054)
+DEVELOPED BY : SURESH S (212223040215)
 ```
 import matplotlib.pyplot as plt
 x1=[1,2,3]
